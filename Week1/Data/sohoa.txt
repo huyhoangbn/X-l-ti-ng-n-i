@@ -1,0 +1,9 @@
+Zoom sửa lỗi ‘gửi dữ liệu cho Facebook’
+Ứng dụng họp từ xa Zoom Cloud Meetings trên iOS có bản cập nhật sửa lỗi sau khi bị phát hiện gửi dữ liệu người dùng cho Facebook.
+Trên trang blog chính thức, đại diện Zoom cho biết đã phát hành bản cập nhật của ứng dụng Zoom trên iOS, nhằm xóa bỏ các đoạn mã cho phép Facebook thu thập thông tin thiết bị người dùng.
+Người dùng Zoom trên iOS có thể vào App Store, chọn cập nhật Zoom Cloud Meetings để nâng cấp lên phiên bản 4.6.9 để khắc phục lỗi.
+Trong bản cập nhật mới nhất, Zoom cho biết đã xóa SDK trên của Facebook, nhưng vẫn đảm bảo tính năng "Đăng nhập bằng Facebook" hoạt động tốt để người dùng có thể dễ dàng đăng nhập mà không sợ bị thu thập dữ liệu.
+Tại Việt Nam, Zoom (gọi tắt của Zoom Cloud Meetings) là ứng dụng được tải về nhiều nhất trên cả iOS và Android nhiều tuần qua. 
+Ứng dụng này hỗ trợ học tập hoặc họp từ xa, được nhiều trường học và công ty sử dụng để đối phó với Covid-19. 
+Ứng dụng này từng bị nhiều học sinh Việt Nam đánh giá một sao chỉ vì không muốn học tại nhà.
+

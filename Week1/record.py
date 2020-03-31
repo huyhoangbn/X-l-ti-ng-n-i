@@ -30,14 +30,19 @@ def record(data):
 # playback file 
 #sync_record(fileNameRecord, 10, 16000, 1)
 
-f = open('Data/thegioi.txt','r', encoding='utf8')
+f = open('Data/ykien.txt','r', encoding='utf8')
 sentences = f.readlines()
+time = 10 # time - duration
 
 for sentence in sentences:
     print(sentence)
-    fileNameRecord = 'fileWav/thegioi/' + str(sentences.index(sentence)) + '.wav'
-    sync_record(fileNameRecord, 10, 16000, 1)
-
+    print(len(sentence))
+    fileNameRecord = 'fileWav/ykien/' + str(sentences.index(sentence)) + '.wav'
+    sync_record(fileNameRecord, len(sentence)/13.3, 16000, 1)
+    
+        
+    
+    
 
 
 
